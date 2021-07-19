@@ -1,6 +1,6 @@
-# sql-learning
-Learning sql pathway, maybe it could help you too
+# SQL
 
-I have registered my main SQL activities so far and will keep on updating as I go on.
-If you want to see my path, or come along with me, please feel free to use this content.
+Registro de aprendizagem de SQL.
+
+Uso da base de dados forncida pela PUC Minas, através do curso de Gestão Estratégica de Análise de Dados (BI).
 
